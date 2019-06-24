@@ -6,4 +6,4 @@ for i in a:
 if(c!=0):
 	print("The number is not numeric")
 else:
-	print("the numer is numeric") 
+	print("the number is numeric") 
